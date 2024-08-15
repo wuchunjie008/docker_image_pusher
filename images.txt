@@ -7,3 +7,4 @@ xhofe/alist:latest
 privoce/vocechat-server:latest
 nextcloud:latest
 teamspeak
+wbsu2003/mirotalk
