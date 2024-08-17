@@ -9,3 +9,4 @@ nextcloud:latest
 teamspeak
 wbsu2003/mirotalk
 pch18/baota 
+btpanel/baota 
