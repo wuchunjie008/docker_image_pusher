@@ -8,3 +8,4 @@ privoce/vocechat-server:latest
 nextcloud:latest
 teamspeak
 wbsu2003/mirotalk
+pch18/baota 
